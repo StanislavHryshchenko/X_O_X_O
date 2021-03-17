@@ -1,0 +1,10 @@
+C:\Users\stani\source\repos\X_O\X_O\bin\Debug\X_O.exe.config
+C:\Users\stani\source\repos\X_O\X_O\bin\Debug\X_O.exe
+C:\Users\stani\source\repos\X_O\X_O\bin\Debug\X_O.pdb
+C:\Users\stani\source\repos\X_O\X_O\obj\Debug\X_O.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\X_O\X_O\obj\Debug\X_O.Form1.resources
+C:\Users\stani\source\repos\X_O\X_O\obj\Debug\X_O.Properties.Resources.resources
+C:\Users\stani\source\repos\X_O\X_O\obj\Debug\X_O.csproj.GenerateResource.cache
+C:\Users\stani\source\repos\X_O\X_O\obj\Debug\X_O.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\X_O\X_O\obj\Debug\X_O.exe
+C:\Users\stani\source\repos\X_O\X_O\obj\Debug\X_O.pdb
